@@ -3,6 +3,7 @@ en:
   static_pages:
     home:
       title: "Home"
+      sample_app: "Sample App"
       para1_html: "This is the home page for the %{href}"
       para2: "sample application"
     help:
