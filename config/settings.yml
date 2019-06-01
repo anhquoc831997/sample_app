@@ -1,6 +1,7 @@
 name_length: 50
 email_length: 250
 password_min_length: 6
+validates_length : 140
 gravatar_size: 80
 gravatar_small: 50
 checked: "1"
@@ -12,4 +13,6 @@ enable: true
 domain: "example.com"
 host: "localhost:3000"
 protocol: "http"
+img_size: 5
+size_limit: 400
 value_hours_ago: 2

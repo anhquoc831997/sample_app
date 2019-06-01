@@ -25,6 +25,10 @@ en:
   users:
     new:
        signup_html: "This will be a signup page for new users."
+  gravatar_link: "http://gravatar.com/emails"
+  place: "Compose new micropost..."
+  post: "Post"
+  notialert: "Maximum file size is 5MB. Please choose a smaller file."
   main_title: "Ruby on Rails Tutorial Sample App"
   signup: "Sign up now!"
   edit_user: "Edit user"
@@ -34,6 +38,9 @@ en:
   new_user: "New user? "
   news: "News"
   tutorial: "Ruby on Rails Tutorial"
+  rubyonrail_link: "http://rubyonrails.org/"
+  rails_img: "rails.png"
+  rails_logo: "Rails logo"
   footer_html: "The %{main_href} by %{author_href}"
   author: "Michael Hartl"
   login: "Log in"
@@ -59,6 +66,15 @@ en:
   reset_pass: "Reset password"
   forgot_pass: "Forgot password"
   password_reset: "Password reset"
+  profile : "view my profile"
+  Micropost: "Micropost"
+  micropost : "micropost"
+  micropost_feed: "Micropost Feed"
+  micropost_create: "Micropost created!"
+  micropost_delete: "Micropost deleted!"
+  img_noti: "should be less than 5MB"
+  you_sure: "You sure?"
+  please_log_in: "Please log in."
   user_mailer:
     password_reset:
       content1: "To reset your password click the link below:"
