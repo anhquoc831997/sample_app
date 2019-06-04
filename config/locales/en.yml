@@ -73,6 +73,11 @@ en:
   micropost_create: "Micropost created!"
   micropost_delete: "Micropost deleted!"
   img_noti: "should be less than 5MB"
+  less_5MB: "Should be lessthan 5 MB"
+  following: "Following"
+  followers: "Followers"
+  follow: "Follow"
+  unfollow: "Unfollow"
   you_sure: "You sure?"
   please_log_in: "Please log in."
   user_mailer:
