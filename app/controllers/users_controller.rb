@@ -12,7 +12,9 @@ class UsersController < ApplicationController
     @users = User.paginate page: params[:page]
   end
 
-  def show; end
+  def show
+    @microposts = @user.microposts.order_desc.paginate page: params[:page]
+  end
 
   def create
     @user = User.new user_params
